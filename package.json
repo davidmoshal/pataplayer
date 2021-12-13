@@ -1,0 +1,25 @@
+{
+  "name": "pataplayer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/pataphysical/pataplayer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/pataphysical/pataplayer/issues"
+  },
+  "homepage": "https://gitlab.com/pataphysical/pataplayer#readme",
+  "dependencies": {
+    "omxconductor": "^2.4.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.5.3"
+  }
+}
